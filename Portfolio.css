@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+
+a{
+   color: black;
+   font-weight: bold;
+   text-decoration: none;
+}
+
+body{
+    background-color: gainsboro;
+}
