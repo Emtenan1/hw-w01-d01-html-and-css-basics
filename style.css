@@ -1,0 +1,81 @@
+.Background{
+    background-image: url("../images/s.jpg");
+    margin: 0px;
+}
+
+h1{
+    color: yellow;
+    text-align: left;
+    
+
+}
+.link{
+    background-color: black;
+    height: 100px;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: aliceblue;
+    margin-right: 0px;
+    margin-left: 0;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    
+}
+
+a{
+    margin-left: 150px;
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+.reason h2{
+    color: black;
+    background-color: rgb(184, 181, 181);
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -1%;
+    margin-bottom: -1%;
+    
+}
+
+span{
+    color: gainsboro;
+}
+
+u{
+    text-decoration: none;
+    border-bottom: 3px solid yellow;
+
+    
+}
+
+hr{
+    border-bottom: 3px solid yellow;
+    margin-top: -10px;
+    margin-bottom: 1%;
+}
+
+.box{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    margin-left: 850px;
+    margin-top: 30px;
+    padding: 20px;
+    line-height: 26pt;
+    opacity: 0.6;
+
+
+
+}
+posion: fix
+top: 0;
+button: 0;
